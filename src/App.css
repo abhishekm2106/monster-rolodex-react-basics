@@ -1,6 +1,12 @@
 .App {
   text-align: center;
 }
+h1 {
+  font-family: Arial, Helvetica, sans-serif;
+
+  font-size: 72px;
+  color: #0ccac4;
+}
 
 .App-logo {
   height: 40vmin;
